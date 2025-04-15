@@ -1,0 +1,32 @@
+dadi Marqazi ()
+{
+    !
+    >+
+    -
+    ==
+    <=
+    & @
+    edi var@ble_
+    
+    Adadi _num = 10 ::
+    Ashriya num_a = -10.5E+12E-3 ::
+    Ashriya n_umber = +9.3 ::
+    Harf cou_se = "c" ::
+    Matn course_ = "Compiler Construction" ::
+    Mantiqi _flag = True ::
+    Agar ( _flag )
+        output<- "Ok" ::
+    Wagarna
+        input-> _num ::
+    Wapas 0 ::
+    << 
+    ++
+    +=
+    -
+    +-
+    
+}
+Ele_n
+==
+"ccvkvnsv-t3-8w%rtmvmr"
+:=
